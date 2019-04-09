@@ -1,13 +1,3 @@
----
-layout: essay
-type: essay
-title: "Final Project Idea"
-date: 2019-03-26
-labels:
-  - Software Engineering
-  - Meteor
----
-
 # Goals
 - Support new and potential students in Computer Science by helping them discover career paths and opportunities for learning and growth in Hawaii. 
 
