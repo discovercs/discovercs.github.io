@@ -1,5 +1,5 @@
-# Goals
-- Support new and potential students in Computer Science by helping them discover career paths and opportunities for learning and growth in Hawaii. 
+# Goal
+Support new and potential students in Computer Science by helping them discover career paths and opportunities for learning and growth in Hawaii. 
 
 
 # Overview
