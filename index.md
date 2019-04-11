@@ -13,19 +13,32 @@ Easily accessible searchable and filterable database of opportunities available 
 # Approach
  Database:
 - Collection of Opportunities
-- - Opportunity Document:
-- - - Id (string), Name (string), Description (string), interestIDs(string array), Type (string array)
+  - Opportunity Document:
+    - Id (string), Name (string), Description (string), interestIDs(string array), Type (string array)
 - Collection of Users
-- - Id (string), firstName (string), lastName (string), email (string), password (string), interestsIDs (string array), opportunityIDs (string array), careerIDs (string array), friendIDs (string array)
+  - Id (string), firstName (string), lastName (string), email (string), password (string), interestsIDs (string array), opportunityIDs (string array), careerIDs (string array), friendIDs (string array)
 - Collection of Interests
-- - id (string), Name (string), description (string)
+  - id (string), Name (string), description (string)
 - Collection of Careers
-- - id (string), Name (string), description (string), interestIDs (string array)
+  - id (string), Name (string), description (string), interestIDs (string array)
  
 # Overview of Pages
 - Landing Page marketed towards freshman
 - Profile: Add interests, See Saved Opportunities
 - Explore: Search and Filter Opportunities by Type/Interest. See other friends with similar interests
+
+# Mockups
+## Top Level:
+### Sign Up | Home Page
+<img height="400px" src="doc/signup.jpg"> <img height="400px" src="doc/home.jpg">
+
+## Mid Level:
+### Explore Careers | Explore Interests
+<img height="400px" src="doc/explore_careers.jpg"> <img height="400px" src="doc/explore_interests.jpg">
+
+## Low Level
+### Interest Languages
+<img height="400px" src="doc/interest_languages.jpg">
 
 # Use Cases
 - New Freshman just getting to know and explore the ICS community and resources in Hawaii
