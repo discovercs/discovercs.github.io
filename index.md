@@ -11,21 +11,22 @@ Easily accessible searchable and filterable database of opportunities available 
 
 
 # Approach
- Database:
-- Collection of Opportunities
-  - Opportunity Document:
-    - Id (string), Name (string), Description (string), interestIDs(string array), Type (string array)
-- Collection of Users
-  - Id (string), firstName (string), lastName (string), email (string), password (string), interestsIDs (string array), opportunityIDs (string array), careerIDs (string array), friendIDs (string array)
-- Collection of Interests
-  - id (string), Name (string), description (string)
-- Collection of Careers
-  - id (string), Name (string), description (string), interestIDs (string array)
+ 
  
 # Overview of Pages
-- Landing Page marketed towards freshman
-- Profile: Add interests, See Saved Opportunities
-- Explore: Search and Filter Opportunities by Type/Interest. See other friends with similar interests
+- Landing Page highlighting three key features:
+ - Discover Everything: Interests, Careers, Opportunities: Events, Internships, Scholarships.
+ - Find Friends: See people with similar interests as you
+ - Events and Deadlines: See scholarship/internship application deadlines and the community event calendar.
+- Sign up: Users initially choose a minimum of three interests to populate the explore page.
+- Home Page: Personal mindmap, upcoming events and announcements.
+- Explore Pages:
+ - Interests: See technical, personal, and field specific interests. 
+ - Careers: See how your interests connect to potential careers.
+ - Opportunities: Discover community events, hackathons, internships, and scholarships.
+ - Friends: Find people or potential teammates with similar interests.
+- My Profile:
+ - Display your saved interests, careers, and opportunities
 
 # Mockups
 ## Top Level:
@@ -45,7 +46,7 @@ Easily accessible searchable and filterable database of opportunities available 
 
 # Beyond the basic
 - Friend system
-- Explore page visualized with mind maps?
-- Notifications for event opportunities, internship application deadlines
+- Mind Maps
+- Notifications for events and deadlines
 - See other users with same interests
-- Commenting System
+- Reporting System
