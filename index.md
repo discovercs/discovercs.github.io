@@ -10,7 +10,15 @@ The Solution:
 Easily accessible searchable and filterable database of opportunities available for ICS students in Hawaii that is categorized by: internships, clubs, volunteer opportunities, hackathons, jobs, projects, professional organizations, networking events, skill building. More awareness of opportunities will lead to a lower dropout rate, clear focus of career goals, and improve motivation. The landing page will be designed to be more appealing to freshman. A friending system will help students discover and create study groups to work better and improve resilience. 
 
 
-# Approach
+# User Guide
+1. New users: browse the landing page to get an idea of what the website can offer and help you with. 
+2. Sign up, pick a minimum of three interests that you know or want to learn more about
+3. On the home page, you can see your mind map of interests and career connections.
+   You can also see recent announcements, an event calendar, and deadlines.  
+4. On the explore page, browse and add interests, careers, opportunities to your profile.
+   When you add an opportunity to your profile, if it is an event or scholarship/internship, the deadline will show on the calendar. 
+   When you add interests or careers from the explore page, your mind map is updated so you can see the new connections. 
+   You can also find people with simmilar interests to you, who can be potential teammates or study friends.
  
  
 # Overview of Pages
