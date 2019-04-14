@@ -39,7 +39,7 @@ Easily accessible searchable and filterable database of opportunities available 
 # Mockups
 ## Top Level:
 ### Sign Up | Home Page
-<img height="400px" src="doc/m_signup.png"> <img height="400px" src="doc/m_home.png">
+<img height="400px" src="doc/m_signup.png"> <img height="400px" src="doc/m_signupinterests.png">  <img height="400px" src="doc/m_home.png">
 At the sign up page, you can select a minimum of three interests to get your profile started.
 When you reach the home page, a mind map of your interests will populate, and you can see the announcements and events. 
 
