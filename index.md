@@ -39,13 +39,13 @@ Easily accessible searchable and filterable database of opportunities available 
 # Mockups
 ## Top Level:
 ### Sign Up | Home Page
-<img height="400px" src="doc/signup.jpg"> <img height="400px" src="doc/home.jpg">
+<img height="400px" src="doc/m_signup.png"> <img height="400px" src="doc/m_home.png">
 At the sign up page, you can select a minimum of three interests to get your profile started.
 When you reach the home page, a mind map of your interests will populate, and you can see the announcements and events. 
 
 ## Mid Level:
 ### Explore Careers | Explore Interests
-<img height="400px" src="doc/explore_careers.jpg"> <img height="400px" src="doc/explore_interests.jpg">
+<img height="400px" src="doc/m_careers.png"> <img height="400px" src="doc/explore_interests.jpg">
 On the explore careers page, certain career words will be larger than others if you have more interests connected to it. 
 On the explore interests page, there are four types: personal, technical, subject, and field interests.
 
