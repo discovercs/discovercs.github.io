@@ -17,14 +17,28 @@ Easily accessible searchable and filterable database of opportunities available 
 At the sign up page, you can select a minimum of three interests to get your profile started.
 When you reach the home page, a mind map of your interests will populate, and you can see the announcements and events. 
 
-### Explore Careers | Explore Interests
+### Explore Careers
 <img height="400px" src="docs/DiscoverCareers.PNG">
 On the explore careers page, certain career words will be larger than others if you have more interests connected to it. 
+
+### Explore Opportuinties 
+
+
+### Explore Friends
+
+
+## Explore Interests
+<img height="400px" src="docs/InterestsTopPage.png>
 On the explore interests page, there are three types: technical, subject, and field interests.
 
 ### Interests: Technologies
 ![technologies](docs/DiscoverTechnologies.PNG)
-You can explore the list of a specific category of interests, such as Technical (languages). You can drag items from the list to your side on the right. 
+You can explore the list of a specific category of interests, such as Technical (languages). You can add items from the list to your side on the right. 
+
+### Interests: Fields
+![fields](docs/InterestsBotPage.png)
+Here is another category of interests: fields.
+
 
 # Developer Guide
 1. Install [Meteor](https://www.meteor.com/install)
