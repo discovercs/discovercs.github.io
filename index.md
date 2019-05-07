@@ -39,3 +39,12 @@ You can explore the list of a specific category of interests, such as Technical 
 6. You can now access the downloaded build of the site on Google Chrome, or a similar browser by typing:
 `$ localhost:3000`
 
+# Community Feedback
+<img height="400px" src="docs/cf1.png">
+<img height="400px" src="docs/cf2.png">
+<img height="400px" src="docs/cf3.png">
+<img height="400px" src="docs/cf4.png">
+<img height="400px" src="docs/cf5.png">
+<img height="400px" src="docs/cf6.png">
+<img height="400px" src="docs/cf7.png">
+
