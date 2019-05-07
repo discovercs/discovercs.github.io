@@ -32,7 +32,7 @@ The search results appear on the right and your saved opportunities are on the l
 You can find users by searching their name or filtering by class standing.
 
 ### Explore Interests
-<img height="400px" src="docs/InterestsTopPage.png>
+<img height="400px" src="docs/InterestsTopPage.png">
 On the explore interests page, there are three types: technical, subject, and field interests.
 
 #### Interests: Technologies
@@ -44,7 +44,7 @@ You can explore the list of a specific category of interests, such as Technical 
 Here is another category of interests: fields.
 
 ### Your Profile
-<img height="400px" src="docs/ProfilePage.png>
+<img height="400px" src="docs/ProfilePage.png">
 On your profile, you can see the Interests, Careers, Opportunities, and Friends you added.
 
 # Developer Guide
