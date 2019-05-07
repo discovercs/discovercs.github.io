@@ -14,8 +14,12 @@ Easily accessible searchable and filterable database of opportunities available 
 
 ### Sign Up, Sign In, Home Page
 <img height="400px" src="docs/SignUpPage.PNG"> 
-<img height="400px" src="docs/SignInPage.PNG">  <img height="400px" src="docs/HomePage.PNG">
-At the sign up page, you can select a minimum of three interests to get your profile started.
+At the sign up page, enter your first and last name, gender, class standing, email, and password.
+
+<img height="400px" src="docs/SignInPage.PNG"> 
+If you already have an account, please sign in.
+
+<img height="400px" src="docs/HomePage.PNG">
 When you reach the home page, you can see recent announcement posts and upcoming events.
 
 ### Explore Careers
