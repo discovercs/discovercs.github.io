@@ -79,3 +79,7 @@ However, 40% of respondents indicated that they you would NOT recommend this app
 <img height="400px" src="docs/cf6.png">
 <img height="400px" src="docs/cf7.png">
 
+# Contact Us
+Mirabela Medallon: mirabela@hawaii.edu
+Brandon Wong: bwong7@hawaii.edu
+Japhet Ye: japhetye@hawaii.edu
