@@ -51,7 +51,7 @@ On the explore interests page, there are four types: personal, technical, subjec
 
 ## Low Level
 ### Interest Technologies
-![technologies](docs/DiscoverTechnologies.PNG")
+![technologies](docs/DiscoverTechnologies.PNG)
 You can explore the list of a specific category of interests, such as Technical (languages). You can drag items from the list to your side on the right. 
 
 # Use Cases
