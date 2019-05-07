@@ -12,43 +12,44 @@ Easily accessible searchable and filterable database of opportunities available 
 # User Guide
 
 ### Sign Up, Sign In, Home Page
-<img height="400px" src="docs/SignUpPage.PNG"> 
 At the sign up page, enter your first and last name, gender, class standing, email, and password.
+<img height="400px" src="docs/SignUpPage.PNG"> 
 
-<img height="400px" src="docs/SignInPage.PNG"> 
 If you already have an account, please sign in.
+<img height="400px" src="docs/SignInPage.PNG"> 
 
-<img height="400px" src="docs/HomePage.PNG">
 When you reach the home page, you can see recent announcement posts and upcoming events.
-
-### Explore Careers
-<img height="400px" src="docs/DiscoverCareers.PNG">
-On the explore careers page, certain career words will be larger than others if you have more interests connected to it. 
+<img height="400px" src="docs/HomePage.PNG">
 
 ### Explore Opportuinties 
-<img height="400px" src="docs/OpportunitiesPage.png">
 You can find Opportunities through the search bar or filtering by: type, class standing, interest, and career.
-The search results appear on the right and your saved opportunities are on the left.
+The search results appear on the right and your saved opportunities are on the left. There are three types of interests: scholarships, internships, and events. If you filter by career or interest, only opportunities with those related interests or careers will show up.
+<img height="400px" src="docs/OpportunitiesPage.png">
+
+### Explore Careers
+On the careers page, you can view a list of careers on the left and see your saved careers on the right.
+<img height="400px" src="docs/DiscoverCareers.PNG">
 
 ### Explore Friends
+You can find users by searching their name or filtering by class standing. The search results appear on the right. 
 <img height="400px" src="docs/FriendsPage.png">
-You can find users by searching their name or filtering by class standing.
 
 ### Explore Interests
-<img height="400px" src="docs/InterestsTopPage.png">
 On the explore interests page, there are three types: technical, subject, and field interests.
+<img height="400px" src="docs/InterestsTopPage.png">
 
 #### Interests: Technologies
+You can explore the list of a specific category of interests, such as Technical. Technical interests include languages, frameworks, and technologies in computer science. You can add items from the list to your side on the right. 
 ![technologies](docs/DiscoverTechnologies.PNG)
-You can explore the list of a specific category of interests, such as Technical (languages). You can add items from the list to your side on the right. 
+
 
 #### Interests: Fields
+Here is another category of interests: fields. These are subfields of computer science. 
 ![fields](docs/InterestsBotPage.png)
-Here is another category of interests: fields.
 
 ### Your Profile
+On your profile, you can see the Interests, Careers, Opportunities, and Friends you added. You can also remove them from your profile on here. 
 <img height="400px" src="docs/ProfilePage.png">
-On your profile, you can see the Interests, Careers, Opportunities, and Friends you added.
 
 # Developer Guide
 1. Install [Meteor](https://www.meteor.com/install)
