@@ -65,6 +65,12 @@ On your profile, you can see the Interests, Careers, Opportunities, and Friends 
 `$ localhost:3000`
 
 # Community Feedback
+The purpose of the app was to appeal to new or potential students in computer science, and based on the community feedback, we achieved that purpose.  
+100% of respondents indicated that they recommend this application to someone interested in Computer Science/Engineering.
+80% of respondents indicated that they would recommend this application to Computer Science/Engineering Underclassmen?
+
+However, 40% of respondents indicated that they you would NOT recommend this application to someone who is not interested in Computer Science/Engineering. It seems we can improve by making the website more appealing to students without much interest.
+
 <img height="400px" src="docs/cf1.png">
 <img height="400px" src="docs/cf2.png">
 <img height="400px" src="docs/cf3.png">
