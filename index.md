@@ -45,7 +45,7 @@ When you reach the home page, a mind map of your interests will populate, and yo
 
 ## Mid Level:
 ### Explore Careers | Explore Interests
-<img height="400px" src="doc/m_careers.png"> <img height="400px" src="doc/explore_interests.jpg">
+<img height="400px" src="doc/m_careers.png">
 On the explore careers page, certain career words will be larger than others if you have more interests connected to it. 
 On the explore interests page, there are four types: personal, technical, subject, and field interests.
 
