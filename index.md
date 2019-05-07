@@ -11,55 +11,31 @@ Easily accessible searchable and filterable database of opportunities available 
 
 
 # User Guide
-1. New users: browse the landing page to get an idea of what the website can offer and help you with. 
-2. Sign up, pick a minimum of three interests that you know or want to learn more about
-3. On the home page, you can see your mind map of interests and career connections.
-   You can also see recent announcements, an event calendar, and deadlines.  
-4. On the explore page, browse and add interests, careers, opportunities to your profile.
-   When you add an opportunity to your profile, if it is an event or scholarship/internship, the deadline will show on the calendar. 
-   When you add interests or careers from the explore page, your mind map is updated so you can see the new connections. 
-   You can also find people with simmilar interests to you, who can be potential teammates or study friends.
- 
- 
-# Overview of Pages
-- Landing Page highlighting three key features:
- - Discover Everything: Interests, Careers, Opportunities: Events, Internships, Scholarships.
- - Find Friends: See people with similar interests as you
- - Events and Deadlines: See scholarship/internship application deadlines and the community event calendar.
-- Sign up: Users initially choose a minimum of three interests to populate the explore page.
-- Home Page: Personal mindmap, upcoming events and announcements.
-- Explore Pages:
- - Interests: See technical, personal, and field specific interests. 
- - Careers: See how your interests connect to potential careers.
- - Opportunities: Discover community events, hackathons, internships, and scholarships.
- - Friends: Find people or potential teammates with similar interests.
-- My Profile:
- - Display your saved interests, careers, and opportunities
 
-# Mockups
-## Top Level:
 ### Sign Up | Home Page
 <img height="400px" src="docs/SignUpPage.PNG"> <img height="400px" src="docs/SignInPage.PNG">  <img height="400px" src="docs/HomePage.PNG">
 At the sign up page, you can select a minimum of three interests to get your profile started.
 When you reach the home page, a mind map of your interests will populate, and you can see the announcements and events. 
 
-## Mid Level:
 ### Explore Careers | Explore Interests
 <img height="400px" src="docs/DiscoverCareers.PNG">
 On the explore careers page, certain career words will be larger than others if you have more interests connected to it. 
-On the explore interests page, there are four types: personal, technical, subject, and field interests.
+On the explore interests page, there are three types: technical, subject, and field interests.
 
-## Low Level
-### Interest Technologies
+### Interests: Technologies
 ![technologies](docs/DiscoverTechnologies.PNG)
 You can explore the list of a specific category of interests, such as Technical (languages). You can drag items from the list to your side on the right. 
 
-# Use Cases
-- New Freshman just getting to know and explore the ICS community and resources in Hawaii
+# Developer Guide
+1. Install [Meteor](https://www.meteor.com/install)
+2. Clone a copy of dcs using Github.
+3. Open the Command Prompt/Terminal window and cd into the app directory within the dcs directory.
+4. Once within dcs/app enter the following command to install the libraries:
+`$ meteor npm install`
 
-# Beyond the basic
-- Friend system
-- Mind Maps
-- Notifications for events and deadlines
-- See other users with same interests
-- Reporting System
+5. Run the following command to get the system running:
+`$ meteor npm run start`
+
+6. You can now access the downloaded build of the site on Google Chrome, or a similar browser by typing:
+`$ localhost:3000`
+
