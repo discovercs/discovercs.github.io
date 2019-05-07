@@ -22,10 +22,13 @@ When you reach the home page, a mind map of your interests will populate, and yo
 On the explore careers page, certain career words will be larger than others if you have more interests connected to it. 
 
 ### Explore Opportuinties 
-
+<img height="400px" src="docs/OpportunitiesPage.png">
+You can find Opportunities through the search bar or filtering by: type, class standing, interest, and career.
+The search results appear on the right and your saved opportunities are on the left.
 
 ### Explore Friends
-
+<img height="400px" src="docs/FriendsPage.png">
+You can find users by searching their name or filtering by class standing.
 
 ## Explore Interests
 <img height="400px" src="docs/InterestsTopPage.png>
@@ -39,6 +42,9 @@ You can explore the list of a specific category of interests, such as Technical 
 ![fields](docs/InterestsBotPage.png)
 Here is another category of interests: fields.
 
+## Your Profile
+<img height="400px" src="docs/ProfilePage.png>
+On your profile, you can see the Interests, Careers, Opportunities, and Friends you added.
 
 # Developer Guide
 1. Install [Meteor](https://www.meteor.com/install)
